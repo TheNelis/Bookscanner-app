@@ -1,0 +1,1 @@
+#scanner-container{width:100%;max-width:500px;margin:20px auto;position:relative}#scanner-container video{max-width:100%;border:3px solid #007bff;border-radius:10px}#result{margin-top:20px;font-size:18px;font-weight:700;color:#007bff}#status{font-size:18px;color:#007bff;display:none}.drawingBuffer{position:absolute;top:0;left:0;z-index:-10000}#boekButton{border:1px solid #000}
